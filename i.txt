@@ -1,0 +1,325 @@
+ Volume in drive C is WINDOWS
+ Volume Serial Number is 02F0-3A78
+
+ Directory of C:\FFOutput\blcd27
+
+2019/12/11  14:42    <DIR>          .
+2019/12/11  14:42    <DIR>          ..
+2019/11/06  15:27    <DIR>          cd37a
+2019/11/06  15:36    <DIR>          cd37b
+2019/11/06  15:47    <DIR>          cd37c
+2019/11/06  16:12    <DIR>          cd37d
+2019/11/06  16:23    <DIR>          cd37e
+2019/12/11  14:42                 0 i.txt
+2019/12/11  14:41             1,302 README.md
+2019/12/11  14:41                25 _config.yml
+               3 File(s)          1,327 bytes
+
+ Directory of C:\FFOutput\blcd27\.git
+
+2019/12/11  14:41               300 config
+2019/12/11  14:41                73 description
+2019/12/11  14:41                23 HEAD
+2019/12/11  14:41    <DIR>          hooks
+2019/12/11  14:41               217 index
+2019/12/11  14:41    <DIR>          info
+2019/12/11  14:41    <DIR>          logs
+2019/12/11  14:41    <DIR>          objects
+2019/12/11  14:41               114 packed-refs
+2019/12/11  14:41    <DIR>          refs
+               5 File(s)            727 bytes
+
+ Directory of C:\FFOutput\blcd27\.git\hooks
+
+2019/12/11  14:41    <DIR>          .
+2019/12/11  14:41    <DIR>          ..
+2019/12/11  14:41               478 applypatch-msg.sample
+2019/12/11  14:41               896 commit-msg.sample
+2019/12/11  14:41             3,327 fsmonitor-watchman.sample
+2019/12/11  14:41               189 post-update.sample
+2019/12/11  14:41               424 pre-applypatch.sample
+2019/12/11  14:41             1,638 pre-commit.sample
+2019/12/11  14:41             1,348 pre-push.sample
+2019/12/11  14:41             4,898 pre-rebase.sample
+2019/12/11  14:41               544 pre-receive.sample
+2019/12/11  14:41             1,492 prepare-commit-msg.sample
+2019/12/11  14:41             3,610 update.sample
+              11 File(s)         18,844 bytes
+
+ Directory of C:\FFOutput\blcd27\.git\info
+
+2019/12/11  14:41    <DIR>          .
+2019/12/11  14:41    <DIR>          ..
+2019/12/11  14:41               240 exclude
+               1 File(s)            240 bytes
+
+ Directory of C:\FFOutput\blcd27\.git\logs
+
+2019/12/11  14:41    <DIR>          .
+2019/12/11  14:41    <DIR>          ..
+2019/12/11  14:41               183 HEAD
+2019/12/11  14:41    <DIR>          refs
+               1 File(s)            183 bytes
+
+ Directory of C:\FFOutput\blcd27\.git\logs\refs
+
+2019/12/11  14:41    <DIR>          .
+2019/12/11  14:41    <DIR>          ..
+2019/12/11  14:41    <DIR>          heads
+2019/12/11  14:41    <DIR>          remotes
+               0 File(s)              0 bytes
+
+ Directory of C:\FFOutput\blcd27\.git\logs\refs\heads
+
+2019/12/11  14:41    <DIR>          .
+2019/12/11  14:41    <DIR>          ..
+2019/12/11  14:41               183 master
+               1 File(s)            183 bytes
+
+ Directory of C:\FFOutput\blcd27\.git\logs\refs\remotes
+
+2019/12/11  14:41    <DIR>          .
+2019/12/11  14:41    <DIR>          ..
+2019/12/11  14:41    <DIR>          origin
+               0 File(s)              0 bytes
+
+ Directory of C:\FFOutput\blcd27\.git\logs\refs\remotes\origin
+
+2019/12/11  14:41    <DIR>          .
+2019/12/11  14:41    <DIR>          ..
+2019/12/11  14:41               183 HEAD
+               1 File(s)            183 bytes
+
+ Directory of C:\FFOutput\blcd27\.git\objects
+
+2019/12/11  14:41    <DIR>          .
+2019/12/11  14:41    <DIR>          ..
+2019/12/11  14:41    <DIR>          0d
+2019/12/11  14:41    <DIR>          31
+2019/12/11  14:41    <DIR>          6d
+2019/12/11  14:41    <DIR>          b3
+2019/12/11  14:41    <DIR>          c7
+2019/12/11  14:41    <DIR>          ea
+2019/12/11  14:41    <DIR>          eb
+2019/12/11  14:41    <DIR>          f0
+2019/12/11  14:41    <DIR>          info
+2019/12/11  14:41    <DIR>          pack
+               0 File(s)              0 bytes
+
+ Directory of C:\FFOutput\blcd27\.git\objects\0d
+
+2019/12/11  14:41    <DIR>          .
+2019/12/11  14:41    <DIR>          ..
+2019/12/11  14:41               705 2198644476553acc38fbfda334722f57ea69bd
+               1 File(s)            705 bytes
+
+ Directory of C:\FFOutput\blcd27\.git\objects\31
+
+2019/12/11  14:41    <DIR>          .
+2019/12/11  14:41    <DIR>          ..
+2019/12/11  14:41               519 119652a3a7ac3ceabb8559f4de18ce56ec6b17
+               1 File(s)            519 bytes
+
+ Directory of C:\FFOutput\blcd27\.git\objects\6d
+
+2019/12/11  14:41    <DIR>          .
+2019/12/11  14:41    <DIR>          ..
+2019/12/11  14:41                23 653779ed1146222afecb40af69701433e52082
+               1 File(s)             23 bytes
+
+ Directory of C:\FFOutput\blcd27\.git\objects\b3
+
+2019/12/11  14:41    <DIR>          .
+2019/12/11  14:41    <DIR>          ..
+2019/12/11  14:41                89 92b7975a664ae5baf06e736a072db27eae9f24
+               1 File(s)             89 bytes
+
+ Directory of C:\FFOutput\blcd27\.git\objects\c7
+
+2019/12/11  14:41    <DIR>          .
+2019/12/11  14:41    <DIR>          ..
+2019/12/11  14:41                37 418817439b2f071c93a4a6cee831e996123c0b
+               1 File(s)             37 bytes
+
+ Directory of C:\FFOutput\blcd27\.git\objects\ea
+
+2019/12/11  14:41    <DIR>          .
+2019/12/11  14:41    <DIR>          ..
+2019/12/11  14:41               184 902a8f357214213b46e7ea8e0d797fda40194e
+               1 File(s)            184 bytes
+
+ Directory of C:\FFOutput\blcd27\.git\objects\eb
+
+2019/12/11  14:41    <DIR>          .
+2019/12/11  14:41    <DIR>          ..
+2019/12/11  14:41               184 a285ce76835db8ffbb6df8b3f88391825de591
+               1 File(s)            184 bytes
+
+ Directory of C:\FFOutput\blcd27\.git\objects\f0
+
+2019/12/11  14:41    <DIR>          .
+2019/12/11  14:41    <DIR>          ..
+2019/12/11  14:41                53 6a781eaa38ed8fdf7d6bae46c36ae6c7d755d9
+               1 File(s)             53 bytes
+
+ Directory of C:\FFOutput\blcd27\.git\objects\info
+
+2019/12/11  14:41    <DIR>          .
+2019/12/11  14:41    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\FFOutput\blcd27\.git\objects\pack
+
+2019/12/11  14:41    <DIR>          .
+2019/12/11  14:41    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\FFOutput\blcd27\.git\refs
+
+2019/12/11  14:41    <DIR>          .
+2019/12/11  14:41    <DIR>          ..
+2019/12/11  14:41    <DIR>          heads
+2019/12/11  14:41    <DIR>          remotes
+2019/12/11  14:41    <DIR>          tags
+               0 File(s)              0 bytes
+
+ Directory of C:\FFOutput\blcd27\.git\refs\heads
+
+2019/12/11  14:41    <DIR>          .
+2019/12/11  14:41    <DIR>          ..
+2019/12/11  14:41                41 master
+               1 File(s)             41 bytes
+
+ Directory of C:\FFOutput\blcd27\.git\refs\remotes
+
+2019/12/11  14:41    <DIR>          .
+2019/12/11  14:41    <DIR>          ..
+2019/12/11  14:41    <DIR>          origin
+               0 File(s)              0 bytes
+
+ Directory of C:\FFOutput\blcd27\.git\refs\remotes\origin
+
+2019/12/11  14:41    <DIR>          .
+2019/12/11  14:41    <DIR>          ..
+2019/12/11  14:41                32 HEAD
+               1 File(s)             32 bytes
+
+ Directory of C:\FFOutput\blcd27\.git\refs\tags
+
+2019/12/11  14:41    <DIR>          .
+2019/12/11  14:41    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\FFOutput\blcd27\cd37a
+
+2019/11/06  15:27    <DIR>          .
+2019/11/06  15:27    <DIR>          ..
+2019/06/25  00:37               269 a0mp3.bat
+2019/05/10  10:29             1,656 i.js
+2019/11/06  15:28             2,823 index.html
+2019/04/05  00:23             5,251 mp4i.bat
+2019/05/10  10:09            24,834 plx.js
+2019/05/07  10:46             3,746 t.js
+2019/11/06  13:27         1,110,118 Track 01.mp3
+2019/11/06  13:28         1,279,287 Track 02.mp3
+2019/11/06  13:29         1,723,786 Track 03.mp3
+2019/11/06  13:30         1,375,417 Track 04.mp3
+2019/11/06  13:30         1,261,210 Track 05.mp3
+2019/11/06  13:31         1,256,821 Track 06.mp3
+2019/11/06  13:32         1,707,695 Track 07.mp3
+2019/11/06  13:32         1,118,163 Track 08.mp3
+2019/11/06  13:33         1,146,585 Track 09.mp3
+2019/11/06  13:33         1,207,293 Track 10.mp3
+2019/11/06  13:33           207,639 Track 11.mp3
+2019/11/06  13:34         1,086,921 Track 12.mp3
+2019/11/06  13:34         1,605,922 Track 13.mp3
+2019/11/06  13:35         1,199,038 Track 14.mp3
+              20 File(s)     17,324,474 bytes
+
+ Directory of C:\FFOutput\blcd27\cd37b
+
+2019/11/06  15:36    <DIR>          .
+2019/11/06  15:36    <DIR>          ..
+2019/11/06  15:27         1,105,416 Track 1.mp3
+2019/11/06  15:34         1,700,276 Track 10.mp3
+2019/11/06  15:35         1,547,616 Track 11.mp3
+2019/11/06  15:35         1,448,978 Track 12.mp3
+2019/11/06  15:36         1,576,874 Track 13.mp3
+2019/11/06  15:28           973,967 Track 2.mp3
+2019/11/06  15:29         1,224,743 Track 3.mp3
+2019/11/06  15:30         1,176,364 Track 4.mp3
+2019/11/06  15:30         1,653,569 Track 5.mp3
+2019/11/06  15:31         1,310,947 Track 6.mp3
+2019/11/06  15:32         1,165,811 Track 7.mp3
+2019/11/06  15:32         1,099,564 Track 8.mp3
+2019/11/06  15:33         1,516,583 Track 9.mp3
+              13 File(s)     17,500,708 bytes
+
+ Directory of C:\FFOutput\blcd27\cd37c
+
+2019/11/06  15:47    <DIR>          .
+2019/11/06  15:47    <DIR>          ..
+2019/11/06  15:41         1,366,327 Track 1.mp3
+2019/11/06  15:46         1,233,729 Track 10.mp3
+2019/11/06  15:46         1,065,605 Track 11.mp3
+2019/11/06  15:46           875,643 Track 12.mp3
+2019/11/06  15:47           927,156 Track 13.mp3
+2019/11/06  15:47           380,779 Track 14.mp3
+2019/11/06  15:47           459,878 Track 15.mp3
+2019/11/06  15:41         1,394,330 Track 2.mp3
+2019/11/06  15:42           819,531 Track 3.mp3
+2019/11/06  15:43         1,542,601 Track 4.mp3
+2019/11/06  15:43         1,785,749 Track 5.mp3
+2019/11/06  15:44         1,457,337 Track 6.mp3
+2019/11/06  15:44           731,238 Track 7.mp3
+2019/11/06  15:45           375,868 Track 8.mp3
+2019/11/06  15:45         1,083,368 Track 9.mp3
+              15 File(s)     15,499,139 bytes
+
+ Directory of C:\FFOutput\blcd27\cd37d
+
+2019/11/06  16:12    <DIR>          .
+2019/11/06  16:12    <DIR>          ..
+2019/11/06  16:05         1,432,573 Track 1.mp3
+2019/11/06  16:10         1,488,266 Track 10.mp3
+2019/11/06  16:11         1,592,338 Track 11.mp3
+2019/11/06  16:12         1,297,154 Track 12.mp3
+2019/11/06  16:12           953,905 Track 13.mp3
+2019/11/06  16:05         1,207,189 Track 2.mp3
+2019/11/06  16:06         1,452,008 Track 3.mp3
+2019/11/06  16:07           954,219 Track 4.mp3
+2019/11/06  16:07         1,124,642 Track 5.mp3
+2019/11/06  16:08         1,582,516 Track 6.mp3
+2019/11/06  16:09         1,406,973 Track 7.mp3
+2019/11/06  16:09         1,076,890 Track 8.mp3
+2019/11/06  16:10         1,229,027 Track 9.mp3
+              13 File(s)     16,797,700 bytes
+
+ Directory of C:\FFOutput\blcd27\cd37e
+
+2019/11/06  16:23    <DIR>          .
+2019/11/06  16:23    <DIR>          ..
+2019/11/06  16:15           929,455 Track 1.mp3
+2019/11/06  16:20           642,630 Track 10.mp3
+2019/11/06  16:20         1,055,260 Track 11.mp3
+2019/11/06  16:21         1,039,378 Track 12.mp3
+2019/11/06  16:21           851,401 Track 13.mp3
+2019/11/06  16:21           510,242 Track 14.mp3
+2019/11/06  16:22         1,128,926 Track 15.mp3
+2019/11/06  16:22         1,593,696 Track 16.mp3
+2019/11/06  16:23           483,701 Track 17.mp3
+2019/11/06  16:23           370,225 Track 18.mp3
+2019/11/06  16:23           315,368 Track 19.mp3
+2019/11/06  16:15         1,270,196 Track 2.mp3
+2019/11/06  16:16           485,687 Track 3.mp3
+2019/11/06  16:16           980,341 Track 4.mp3
+2019/11/06  16:17           841,892 Track 5.mp3
+2019/11/06  16:17         1,259,643 Track 6.mp3
+2019/11/06  16:18         1,420,348 Track 7.mp3
+2019/11/06  16:19         1,513,762 Track 8.mp3
+2019/11/06  16:19           509,615 Track 9.mp3
+              19 File(s)     17,201,766 bytes
+
+     Total Files Listed:
+             113 File(s)     84,347,341 bytes
+              86 Dir(s)  105,750,282,240 bytes free
